@@ -6,6 +6,10 @@
 ### João Gananca - RM556405
 ### Vitor Hugo - RM558961
 
+## Link do Azure Boards - https://dev.azure.com/RM559196/MottuSense
+
+## Link do Video dos testes - https://youtu.be/0WFBg1bCyGM
+
 ## Arquitetura do Projeto
 <img src="https://github.com/vitorvhsilva/MottuSense-dotNet/blob/main/assets/arquitetura_mottusense.png">
 Essa é a solução completa que vamos entregar pra Mottu.
